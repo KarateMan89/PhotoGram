@@ -1,6 +1,3 @@
-Yordan Slavchev
-101249727
-
 Files:
 main.cc
 View.h, View.cc
